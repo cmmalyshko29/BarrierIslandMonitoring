@@ -18,7 +18,12 @@ This project aimed to quantify and display how barrier islands in the Mid-Atlant
 - [Pea Island](https://code.earthengine.google.com/7a2787e3e9aaa30298c61bb0f7175e37)
 - [Sandy Hook](https://code.earthengine.google.com/77d477652702b674c1a2f6591a4b5090)
 
+<h2>Figures </h2>
 
+<p align="center">
+Barrier Island Yearly Movement: <br/>
+<img src="https://i.imgur.com/a/PxhiEB4.png" height="80%" width="80%" alt="Barrier Island Movement"/>
+<br />
 
 
 
