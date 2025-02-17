@@ -4,6 +4,10 @@
 This project aimed to quantify and display how barrier islands in the Mid-Atlantic Ocean are affected by hurricanes physically and environmentally. Using Google Earth Engine and ArcGIS Pro, Landsat satellite imagery from four barrier island locations on the east coast of the United States was analyzed to monitor island movement, vegetative changes (NDVI), and island land cover change before and after large hurricane events. 
 <br />
 
+<h2>Data Sources</h2>
+
+- <b>USGS Landsat 5 Level 2, Collection 2, Tier 1</b>
+- <b>USGS Landsat 8 Level 2, Collection 2, Tier 1</b>
 
 <h2>Languages and Softwares Used</h2>
 
